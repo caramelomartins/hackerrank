@@ -1,3 +1,7 @@
+#!/bin/sh
+#
+# https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers
+
 read x
 read y
 

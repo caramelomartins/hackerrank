@@ -1,3 +1,7 @@
+#!/bin/sh
+#
+# https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals
+
 read x
 read y
 
