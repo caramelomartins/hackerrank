@@ -4,4 +4,4 @@
 
 read exp
 
-printf "%0.3f\n" $(($exp))
+printf "%0.3f\n" $(echo "scale=4; $exp" | bc)
